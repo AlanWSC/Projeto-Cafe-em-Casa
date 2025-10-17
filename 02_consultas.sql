@@ -1,7 +1,7 @@
 SELECT  Nome_cliente,
+        Nome_produto,
         Data_pedido,
         Quantidade_produto,
-
 
     FROM cliente
 
